@@ -1,0 +1,14 @@
+{
+    "products": [
+        { "id": 1, "name": "produto 1", "price": 420, "url": "https://madeinbrazil.fbitsstatic.net/img/p/guitarra-strato-tg530-woodstock-tagima-vermelho-vermelho-metalico-mr-69160/255643.jpg?w=800&h=800&v=no-change" },
+        { "id": 2, "name": "produto 2", "price": 530, "url": "https://d2figssdufzycg.cloudfront.net/Custom/Content/Products/11/43/11439747_guitarra-strato-6-cordas-woodstock-verde-tg530sg-tagima-91342_m3_637081997512479419.jpg"},
+        { "id": 3, "name": "produto 3", "price": 520, "url": "https://images.tcdn.com.br/img/img_prod/553565/guitarra_benson_bgs_etl10ts_874_1_20190607163217.jpg" },
+        { "id": 4, "name": "produto 4", "price": 430, "url": "https://a-static.mlcdn.com.br/618x463/guitarra-memphis-mg32-tagima-pink-rosa/boleromusic/5941198792/ce640cb8947f964762f114602c1d2100.jpg" },
+        { "id": 5, "name": "produto 5", "price": 520, "url": "https://opiniaobomvaleapena.com.br/imagens/guitarra-eletrica-strato-vermelha-aubst19-auburn.png" },
+        { "id": 6, "name": "produto 6", "price": 640, "url": "https://static.mundomax.com.br/produtos/35113/550/1.webp" },
+        { "id": 7, "name": "produto 7", "price": 750, "url": "https://images.tcdn.com.br/img/img_prod/445926/guitarra_strinberg_lps_230_les_paul_cherrybrust_9133_1_20201217172120.jpg" },
+        { "id": 8, "name": "produto 8", "price": 520, "url": "https://images.tcdn.com.br/img/img_prod/414764/guitarra_tagima_tg_520_woodstock_stratocaster_3873_1_20201209124906.jpg" },
+        { "id": 9, "name": "produto 9", "price": 720, "url": "https://tfcpeb.vteximg.com.br/arquivos/ids/191850-1000-1000/102083.jpg?v=637424542988500000" },
+        { "id": 10, "name": "produto 10", "price": 530, "url": "https://images.tcdn.com.br/img/img_prod/553565/guitarra_land_l_g1sb_e_1693_1_20190607160215.jpg" }
+    ]
+}
